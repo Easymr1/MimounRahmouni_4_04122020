@@ -777,6 +777,11 @@ h4 {
     color: #F3976C;
 }
 
+.position {
+    position: relative;
+    font-size: 4rem;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
 }
